@@ -2,13 +2,13 @@
 **IAM**
 # _Choeur_ 
 
-L'École du micro d'argent
-L'École du micro d'argent
-L'École du micro d'argent
-L'École du micro d'argent
-L'École du micro d'argent
-L'École du micro d'argent
-L'École du micro d'argent
+L'École du micro d'argent  
+L'École du micro d'argent  
+L'École du micro d'argent  
+L'École du micro d'argent  
+L'École du micro d'argent  
+L'École du micro d'argent  
+L'École du micro d'argent  
 
 # _Shurik'n_
 
@@ -73,7 +73,7 @@ Vaillant praticien des arts martiens
 Délégué pour mettre un terme à ces horreurs  
 Tel est mon labeur, tu sais de qui je défends l'honneur
 
-# _choeur_  
+# _Choeur_  
 
 L'École du micro d'argent  
 L'École du micro d'argent  
